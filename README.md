@@ -5,5 +5,5 @@
 Matlab R2016b.
 
 # Files
-main : You can test your images /n
+main : You can test your images
 .p files : I can not open all my codes becaues it was realted with other project.
